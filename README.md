@@ -1,4 +1,4 @@
-# Spring Cloud API Gateway adding to Eureka Server
+# Spring Cloud API Gateway added to Eureka Server
 1 Create normal springBoot application using start.spring.io
     https://start.spring.io/
 
